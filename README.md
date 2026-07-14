@@ -223,11 +223,11 @@ grep -v nologin /etc/passwd | grep -v false
 ### IR Lifecycle
 
 1. **Preparation** — Policies, playbooks, tools in place
-2. **Detection & Identification** — Alert fires, analyst triages
-3. **Containment** — Stop the bleeding (isolate host, block IP)
-4. **Eradication** — Remove malware, close access vector
-5. **Recovery** — Restore systems, verify clean state
-6. **Lessons Learned** — Post-incident review, improve defenses
+2. **Detection & Identification** Alert fires, analyst triages
+3. **Containment** Stop the bleeding (isolate host, block IP)
+4. **Eradication** Remove malware, close access vector
+5. **Recovery** Restore systems, verify clean state
+6. **Lessons Learned** Post-incident review, improve defenses
 
 ### Triage Priority (Very Common Interview Question)
 
