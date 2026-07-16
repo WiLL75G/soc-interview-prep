@@ -1,4 +1,4 @@
-# SOC Analyst Interview Prep — Complete Guide
+# SOC Analyst Interview Prep Complete Guide
 ### Tier 1 & Tier 2 | Blue Team | Entry to Mid Level
 
 ---
